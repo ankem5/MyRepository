@@ -1,13 +1,12 @@
 package com.sms;
 
-public class MYNEWCLASS {
+public class NEWSAIBARNCHCODE {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-	
-		System.out.println("CODE IS RELATED TO SAI BRANCH");
+		// TODO Auto-generated method stub
 
 	}
 
